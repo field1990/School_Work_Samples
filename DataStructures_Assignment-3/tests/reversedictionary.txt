@@ -1,0 +1,8 @@
+zero
+apple
+tomato
+zebra
+alligator
+banana
+paste
+holiday
