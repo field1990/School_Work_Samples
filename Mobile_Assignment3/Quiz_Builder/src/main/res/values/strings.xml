@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QuizBuilder</string>
+    <string name="Answer1Txt" />
+    <string name="Answer2Txt" />
+    <string name="Answer3Txt" />
+    <string name="Answer4Txt" />
+    <string name="QuestionTxt" />
+    <string name="textView3" />
+    <string name="title_activity_finish_quiz">FinishQuiz</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="nextBtn">Next</string>
+    <string name="scoreTxt">Congratulations You Finished The Quiz!</string>
+    <string name="YourScoreTxt">Your Score is: </string>
+    <string name="PlayAgainTxt">Retry</string>
+    <string name="FinalScoreTxt" />
+    <string name="yourName" />
+    <string name="Name">Name</string>
+    <string name="QuizTitleTxt">Quiz Builder</string>
+    />
+</resources>
